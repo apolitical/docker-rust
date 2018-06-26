@@ -3,7 +3,6 @@ Docker Rust
 
 [![GitHub release](https://img.shields.io/github/release/apolitical/docker-rust.svg)](https://github.com/apolitical/docker-rust/releases)
 [![GitHub license](https://img.shields.io/github/license/apolitical/docker-rust.svg)](https://github.com/apolitical/docker-rust/blob/master/LICENSE)
-[![CircleCI](https://img.shields.io/circleci/project/github/apolitical/docker-rust/master.svg)](https://circleci.com/gh/apolitical/docker-rust)
 
 A base to build Rust based docker images from.
 
